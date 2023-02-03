@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamPham
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data
+- 🌱 I’m currently Data Analyst
 - 📫 How to reach me namthanhpham111@gmail.com
 
 <!---
